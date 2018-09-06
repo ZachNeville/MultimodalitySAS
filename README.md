@@ -1,16 +1,16 @@
 # MultimodalitySAS
-********************************************
-			Instructions for Use
-********************************************
+**********************
+## Instructions for Use
+**********************
 
 The following is a brief setup guide to use the dip 
-and silverman macros. For full details, please see 
-the paper "Macros to Conduct Tests of Multimodality 
-in SAS" by Zachariah Neville and Naomi Brownstein.
+and silverman macros. __For full details, please see 
+the paper ["Macros to Conduct Tests of Multimodality 
+in SAS" by Zachariah Neville and Naomi Brownstein"](https://www.tandfonline.com/doi/full/10.1080/00949655.2018.1509979).__
 
 
 ***************
-Initial Setup
+## Initial Setup
 ***************
 
 1. Ensure that the R software is installed on the machine.
@@ -35,7 +35,7 @@ reflect the locations of the dip.sas and silverman.sas files on your machine.
 
 
 *************************************************
-Using Macros in the Future (After Initial Setup)
+## Using Macros in the Future (After Initial Setup)
 *************************************************
 
 Steps 1-4 only need to be completed once. In all future SAS sessions, only Step 5 must be 
